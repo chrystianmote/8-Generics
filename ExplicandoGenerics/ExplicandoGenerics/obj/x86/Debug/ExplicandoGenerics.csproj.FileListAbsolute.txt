@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ExplicandoGenerics\ExplicandoGenerics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ExplicandoGenerics\ExplicandoGenerics\bin\Debug\ExplicandoGenerics.exe
+C:\Users\Aluno\Desktop\ExplicandoGenerics\ExplicandoGenerics\bin\Debug\ExplicandoGenerics.pdb
+C:\Users\Aluno\Desktop\ExplicandoGenerics\ExplicandoGenerics\obj\x86\Debug\ExplicandoGenerics.exe
+C:\Users\Aluno\Desktop\ExplicandoGenerics\ExplicandoGenerics\obj\x86\Debug\ExplicandoGenerics.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 30.10.2012\ExplicandoGenerics\ExplicandoGenerics\obj\x86\Debug\ExplicandoGenerics.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 30.10.2012\ExplicandoGenerics\ExplicandoGenerics\obj\x86\Debug\ExplicandoGenerics.pdb

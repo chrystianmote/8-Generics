@@ -1,0 +1,7 @@
+C:\Documents and Settings\Chrystian Mayk\Desktop\Chrystian.Generics\PersistenciaGenerica\bin\Debug\PersistenciaGenerica.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\Chrystian.Generics\PersistenciaGenerica\bin\Debug\PersistenciaGenerica.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\Chrystian.Generics\PersistenciaGenerica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chrystian Mayk\Desktop\Chrystian.Generics\PersistenciaGenerica\obj\x86\Debug\PersistenciaGenerica.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\Chrystian.Generics\PersistenciaGenerica\obj\x86\Debug\PersistenciaGenerica.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 30.10.2012\Chrystian.Generics\PersistenciaGenerica\obj\x86\Debug\PersistenciaGenerica.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 30.10.2012\Chrystian.Generics\PersistenciaGenerica\obj\x86\Debug\PersistenciaGenerica.pdb
